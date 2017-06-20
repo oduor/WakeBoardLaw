@@ -1,5 +1,5 @@
 {
-   "firm" : "DLA Piper",
+   "firm" : "xxxxx",
    "size": 1416,
    "locations": ["Albany", "Atlanta", "Austin", "Baltimore", "Boston", 
                 "Chicago", "Dallas", "Houston", "Los Angeles", "Miami",
@@ -67,8 +67,8 @@
    "lawyers": [
      {
        "id" : 1, 
-       "last_name":"aber",
-       "first_name":"laura",
+       "last_name":"xxxx",
+       "first_name":"xxxx",
        "office" : "philadelphia",
        "services": "Corporate",
        "coverage" : ["Capital Markets", "Emerging Growth and Venture Capital"],
