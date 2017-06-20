@@ -1,0 +1,128 @@
+{
+   "firm" : "DLA Piper",
+   "size": 1416,
+   "locations": ["Albany", "Atlanta", "Austin", "Baltimore", "Boston", 
+                "Chicago", "Dallas", "Houston", "Los Angeles", "Miami",
+                "Minneapolis", "Atlantic City", "Short Hills", "New York",
+                "Northern Virginia", "Philadelphia", "Phoenix", "Raleigh",
+                "Sacramento", "San Diego", "San Francisco", "Seattle",
+                "Silicon Valley", "DC", "Wilmington"],
+   "sectors": ["Education", "Energy", "Financial Services", "Food and Beverage", "Government Contracting",
+                "Healthcare", "Hospitality and Leisure", "Insurance", "Life Sciences", "Media", "Sport and Entertainment",
+                "Mining","Real Estate","Retail","Technology"],             
+   "services": [
+     {
+        "service" : "Corporate", 
+        "coverage": ["Capital Markets","Emerging Growth and Venture Capital", "Global Investment Funds", "Mergers and Acquisitions", "Private Equity", "Public Company and Corporate Governance"]
+     },
+     {
+        "service" : "Employment", 
+        "coverage": ["Diversity, Discrimination and Equal Pay", "Employee and Labor Relations", "Employee Benefits and Executive Compensation", "Employment Litigation and Dispute Resolution",
+                    "Global Employment Law Compliance", "Global Governance and Compliance", "Protecting Business Assets", "Strategic Union Campaigns", "Workforce Restructuring and Outsourcing"]
+     },
+     {
+        "service" : "Finance", 
+        "coverage": ["Agricultural Finance", "Asset Based Lending", "Debt Capital Markets", "Debt Finance", "Derivatives", "Financial Services Regulatory", 
+                    "Public Finance", "Real Estate Finance", "Structured Finance and Securitization"]
+     },
+     {
+        "service" : "Intellectual Property", 
+        "coverage": ["Commercial Contracts","Cybersecurity","Data Protection, Privacy and Security","Franchise","Media, Sport, Gaming and Entertainment",
+                    "Patent Litigation","Patent Office Trials (IPRs, CBMs, PGRs)","Patent Prosecution and Strategic Patent Counseling","Technology Transactions and Strategic Sourcing",
+                    "Telecom","Trademark and Copyright"]
+     },
+     {
+        "service" : "International Trade, Regulatory and Government Affairs", 
+        "coverage": ["Administrative Law","Antitrust and Competition","Environment, Health and Safety","EU Law and Policy","FDA","Financial Services Regulatory",
+                    "Global Governance and Compliance","International Trade","Product Liability, Mass Torts and Product Stewardship","US Law and Policy",
+                    "White Collar and Corporate Crime","Litigation, Arbitration and Investigations","Projects, Energy and Infrastructure","Real Estate","Restructuring","Tax"]
+     },
+     {
+        "service" : "Litigation, Arbitration and Investigations", 
+        "coverage": ["Administrative Law","Antitrust and Competition","Appellate Advocacy","Banking and Finance Litigation","Class Actions","Commercial Contracts Disputes",
+                    "Corporate and Securities Litigation","Cross-Border Litigation","eDiscovery and Information Management","Employment Litigation and Dispute Resolution",
+                    "Environment, Health and Safety","Global Governance and Compliance","Infrastructure and Construction Disputes","Insurance and Reinsurance Disputes",
+                    "International Arbitration","Investigations","IT and Telecoms Disputes","Merger Control","Patent Litigation","Product Liability", "Mass Torts and Product Stewardship",
+                    "Professional Liability","Real Estate Litigation","Tax Controversy and Disputes","White Collar and Corporate Crime"]
+     },
+     {
+        "service" : "Projects, Energy and Infrastructure", 
+        "coverage": ["Infrastructure Finance","Oil and Gas","Power and Transmission","Public Private Partnerships and PFI","Renewables","Social Infrastructure","Transport","Water and Waste"]
+     },
+     {
+        "service" : "Real Estate", 
+        "coverage": [ "Construction and Engineering", "Real Estate Asset Management", "Real Estate Development and Planning", "Real Estate Finance", "Real Estate Funds and Private Equity", 
+                    "Real Estate Investment", "Real Estate Investment Trusts", "Real Estate Litigation"]
+     },
+     {
+        "service" : "Restructuring", 
+        "coverage": ["Restructuring"]
+     },
+     {
+        "service" : "Tax", 
+        "coverage": ["Global Alignment and Integration", "Global Equity Compensation", "International Tax Counsel", "Restructuring and Alignment Solutions (INTEGRAS)", 
+                    "Tax Controversy and Disputes", "Transactional Tax Planning", "Transfer Pricing", "Trusts and Estates", "US State and Local Taxes"]
+     }
+    ],  
+   "lawyers": [
+     {
+       "id" : 1, 
+       "last_name":"aber",
+       "first_name":"laura",
+       "office" : "philadelphia",
+       "services": "Corporate",
+       "coverage" : ["Capital Markets", "Emerging Growth and Venture Capital"],
+       "hire_year" : 2012, 
+       "title" : "Associate",
+       "title_year" : 3,
+       "biodata": [
+            {
+                "birth_year": 1987,
+                "birth_city": "Baltimore",
+                "birth_state": "MD",
+                "pre_college_city" : "Baltimore",
+                "pre_college_state": "MD",
+                "gender" : "female",
+                "lgbtq" : "no",
+                "immigrant" : "no",
+                "race" : "Caucasian", 
+                "personality_type" : "ENFP"
+            }
+        ],
+        "education": [
+            {
+                "schools" : ["Seton Hall", "University of Maryland"],
+                "law_school" : "Seton Hall",
+                "degrees" : ["BA", "JD"],
+                "first_generation" : "no"
+            }
+        ],
+       
+        "family_life": [
+            {
+                "marital_status" : "single",
+                "children": 0,
+                "first_generation" : "no"
+            }
+        ],
+
+        "personal_finance": [
+            {
+                "mortgage" : "yes",
+                "mortgage_balance" : 0,
+                "student_loan": "yes",
+                "student_loan_balance" : 0
+            }
+        ],
+        "career": [
+            {
+                "straight_through" : "yes",
+                "work_years_before_lawschool" : 0,
+                "previous_companies": ["Port America", "Cardio Medical Products"],
+                "previous_industries": ["transport", "medicine"],
+                "student_loan_balance" : 0
+            }
+        ]
+    }
+   ]
+ }
