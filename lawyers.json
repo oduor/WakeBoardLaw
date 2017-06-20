@@ -1,5 +1,5 @@
 {
-   "firm" : "xxxxx",
+   "firm" : "DLA Piper",
    "size": 1416,
    "locations": ["Albany", "Atlanta", "Austin", "Baltimore", "Boston", 
                 "Chicago", "Dallas", "Houston", "Los Angeles", "Miami",
@@ -67,8 +67,8 @@
    "lawyers": [
      {
        "id" : 1, 
-       "last_name":"xxxx",
-       "first_name":"xxxx",
+       "last_name":"aber",
+       "first_name":"laura",
        "office" : "philadelphia",
        "services": "Corporate",
        "coverage" : ["Capital Markets", "Emerging Growth and Venture Capital"],
@@ -94,7 +94,11 @@
                 "schools" : ["Seton Hall", "University of Maryland"],
                 "law_school" : "Seton Hall",
                 "degrees" : ["BA", "JD"],
-                "first_generation" : "no"
+                "first_generation" : "no",
+                "scholarships" : 0,
+                "scholarship_level": 0,
+                "pell_grants" : "No",
+                "other_grants" : "No"
             }
         ],
        
@@ -120,7 +124,10 @@
                 "work_years_before_lawschool" : 0,
                 "previous_companies": ["Port America", "Cardio Medical Products"],
                 "previous_industries": ["transport", "medicine"],
-                "student_loan_balance" : 0
+                "student_loan_balance" : 0,
+                "ngo_board_memberships": 0,
+                "for_profit_board_memberships" : 0
+
             }
         ]
     }
